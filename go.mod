@@ -1,4 +1,4 @@
-module github.com/K-Phoen/grabana
+module github.com/ddougan89/tii-grabana
 
 go 1.19
 
